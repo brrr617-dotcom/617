@@ -5,11 +5,11 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Kirti",
+    valentineName: "KIRTI",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "Will You Be My Valentine? 💚",
+    pageTitle: "WILL YOU BE MY VALENTINE? 💚",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
@@ -22,35 +22,35 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Do you love me more than Abel?—Because I love you more than Boston Sports",                                    // First interaction
-            yesBtn: "Yes",                                             // Text for "Yes" button
-            noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "Of courseeeee haha💚"           // Secret hover message
+            text: "DO YOU LOVE ME MORE THAN ABEL THE WEEKND TESFAYE?—BECAUSE I LOVE YOU MORE THAN BOSTON SPORTS AND DRAKE MAYE AND JAYSON TATUM OBVIOUSLY",                                    // First interaction
+            yesBtn: "YES",                                             // Text for "Yes" button
+            noBtn: "NO",                                               // Text for "No" button
+            secretAnswer: "OF COURSEEEEE...haha💚"           // Secret hover message
         },
         second: {
-            text: "How much do you love me?",                          // For the love meter
-            startText: "This much!",                                   // Text before the percentage
-            nextBtn: "Next 💚"                                         // Text for the next button
+            text: "CUANTO ME AMAS MOR?",                          // For the love meter
+            startText: "THIS MUCH",                                   // Text before the percentage
+            nextBtn: "NEXT 💚"                                         // Text for the next button
         },
         third: {
-            text: "Will you be my Biryanitine", // The big question!
-            yesBtn: "Yes",                                             // Text for "Yes" button
-            noBtn: "No"                                                 // Text for "No" button
+            text: "WILL YOU BE MY BIRYANITINE AND VALENTINE🫓🌹💚", // The big question!
+            yesBtn: "YES",                                             // Text for "Yes" button
+            noBtn: "NO (if ur gay) "                                                 // Text for "No" button
         }
     },
 
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "wow que chimba i LOVE you",  // Shows when they go past 5000%
-        high: "oh u love me like dat 💚",              // Shows when they go past 1000%
+        extreme: "WOW Q CHIMBA MOR T AMO 🌚🌝",  // Shows when they go past 5000%
+        high: "oh u love me LIKE DAT 💚",              // Shows when they go past 1000%
         normal: "bery nice *headbob* "                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "I knew you would say yes :) I love you with my life jellybean, and i love my life with you",
-        message: "mil besos and another cute day awaits",
+        title: "OBVIO ME DECIS SI MOR :) I LOVE YOU WITH MY LIFE JELLYBEAN—AND I LOVE MY LIFE WITH YOU",
+        message: "MIL BESOS Y OTRO DIA LINDO CON TIGO NOS ESPERA",
         emojis: "💚🤞🏻🫶🏻☘️"  // These will bounce around
     },
 
