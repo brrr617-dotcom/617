@@ -14,8 +14,8 @@ const CONFIG = {
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
-        hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis
-        bears: ['🧸', '🐻']                       // Cute bear emojis
+        hearts: ['💚', '🩷', '💚', '🩷', '💚'],  // Heart emojis
+        bears: ['🤌🏻', '🫶🏻']                       // Cute bear emojis
     },
 
     // Questions and answers
@@ -25,15 +25,15 @@ const CONFIG = {
             text: "Do you love me more than Abel? Because I love you more than Boston Sports",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "Of courseeeee haha"           // Secret hover message
+            secretAnswer: "Of courseeeee haha💚"           // Secret hover message
         },
         second: {
             text: "How much do you love me?",                          // For the love meter
             startText: "This much!",                                   // Text before the percentage
-            nextBtn: "Next ❤️"                                         // Text for the next button
+            nextBtn: "Next 💚"                                         // Text for the next button
         },
         third: {
-            text: "Will you be my Biryanitine on February 14th, 2026? 🌹", // The big question!
+            text: "Will you be my Biryanitine", // The big question!
             yesBtn: "Yes",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
         }
@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://jumpshare.com/share/Hkvj5LDBPK75Txihdux4", // Music streaming URL
+        musicUrl: "https://audio.jukehost.co.uk/avvtHaWpsZdqjDRb7PRRxXvfcoH1hsaa", // Music streaming URL
         startText: "Play Rola",        // Button text to start music
         stopText: "Stop Rola",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
