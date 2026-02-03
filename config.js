@@ -22,7 +22,7 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Do you love me more than Abel? Because I love you more than Boston Sports",                                    // First interaction
+            text: "Do you love me more than Abel?—Because I love you more than Boston Sports",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
             secretAnswer: "Of courseeeee haha💚"           // Secret hover message
@@ -42,15 +42,15 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "wow #wow i love you",  // Shows when they go past 5000%
-        high: "guao, bery nice mai fren",              // Shows when they go past 1000%
-        normal: "berry nice *headbob* "                           // Shows when they go past 100%
+        extreme: "wow que chimba i LOVE you",  // Shows when they go past 5000%
+        high: "oh u love me like dat 💚",              // Shows when they go past 1000%
+        normal: "bery nice *headbob* "                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "I knew you would say yes :) I love you with my life jellybean",
-        message: "5000 besos and another cute day awaits",
+        title: "I knew you would say yes :) I love you with my life jellybean, and i love my life with you",
+        message: "mil besos and another cute day awaits",
         emojis: "💚🤞🏻🫶🏻☘️"  // These will bounce around
     },
 
@@ -67,9 +67,9 @@ const CONFIG = {
     // Animation settings
     // Adjust these if you want faster/slower animations
     animations: {
-        floatDuration: "20s",           // How long it takes hearts to float up (10-20s recommended)
+        floatDuration: "10s",           // How long it takes hearts to float up (10-20s recommended)
         floatDistance: "50px",          // How far hearts move sideways (30-70px recommended)
-        bounceSpeed: "0.4s",            // Speed of bouncing animations (0.3-0.7s recommended)
+        bounceSpeed: "0.5s",            // Speed of bouncing animations (0.3-0.7s recommended)
         heartExplosionSize: 1.5         // Size of heart explosion effect (1.2-2.0 recommended)
     },
 
